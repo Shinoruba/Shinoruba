@@ -1,5 +1,5 @@
 <h1 align="center">Hello amazing & beautiful law-abiding citizen reading this 👋 My name is Yazan Homssi</h1>
-<h3 align="center">I am currently a DLSU student ID122 // Bachelors of Science in Computer Studies - Major in Software Technology</h3>
+<h3 align="center">I am currently a DLSU student ID122 // Bachelors of Science in Computer Science - Major in Software Technology</h3>
 
 - 🖥️ Programming Languages I am currently learning: **C, Java, SQL**
 
