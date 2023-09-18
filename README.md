@@ -3,7 +3,7 @@
 
 - 🖥️ Programming Languages I am currently learning: **C, Java, SQL**
 
-- 🌹 Programming Languages I will learn in the near future: **HTML, CSS, JavaScript, Ruby, Go, Kotlin, R**
+- 🌹 Programming Languages I will learn in the near future: **HTML, CSS, JavaScript**
 
 - 📫 How to reach me? **homssi002@gmail.com - Personal Account**
 
