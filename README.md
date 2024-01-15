@@ -1,11 +1,13 @@
 <h1 align="center">Hello amazing & beautiful law-abiding citizen reading this 👋 My name is Yazan Homssi</h1>
 <h3 align="center">I am currently a DLSU student ID122 // Bachelors of Science in Computer Studies - Major in Software Technology</h3>
 
-- 🖥️ Programming Languages I am currently learning: **C, Java, SQL**
+- ✅ Programming Languages I am cool with: **C, Java, SQL**
+
+- 🖥️ Programming Languages I am currently learning: **HTML and CSS ( funny markup languages, not programming languages ), Javascript, Python, R, Ruby, Go, Kotlin**
 
 - 🌹 Programming Languages I will learn in the near future: **HTML, CSS, JavaScript**
 
-- 📫 How to reach me? **homssi002@gmail.com - Personal Account**
+- 📫 How to reach me? **homssi002@gmail.com - Personal Account // yazan_homssi@dlsu.edu.ph - DLSU Account**
 
 - 💀 **Life is great (so far), it could be greater ;)**
 
