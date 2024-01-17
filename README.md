@@ -3,9 +3,9 @@
 
 - ✅ Programming Languages I am cool with: **C, Java, SQL**
 
-- 🖥️ Programming Languages I am currently learning: **HTML and CSS ( funny markup languages, not programming languages ), Javascript, Python, R, Ruby, Go, Kotlin**
+- 🖥️ Programming Languages I am currently learning: **HTML and CSS ( markup languages ), Javascript, Python, R, Ruby, Go, Kotlin**
 
-- 🌹 Programming Languages I will learn in the near future: **HTML, CSS, JavaScript**
+- 🌹 Programming Languages I will learn in the near future: **whatever my future subjects require💀**
 
 - 📫 How to reach me? **homssi002@gmail.com - Personal Account // yazan_homssi@dlsu.edu.ph - DLSU Account**
 
