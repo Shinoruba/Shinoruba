@@ -1,4 +1,4 @@
-<h1 align="center">What's good gang? 👋💀</h1>
+<h1 align="center">What's good? 👋</h1>
 <h2 align="center"> My name is Yazan Homssi</h2>
 <h3 align="center">DLSU student ID122 || Bachelors of Science in Computer Studies || Major in Software Technology</h3>
 
