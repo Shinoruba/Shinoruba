@@ -1,13 +1,11 @@
-<h2 align="center"> My name is Yazan Homssi 👋</h2>
-<h3 align="center">DLSU student ID122 || Bachelors of Science in Computer Studies || Major in Software Technology</h3>
+<h2 align="center">Yazan Homssi👋</h2>
+<h3 align="center">De La Salle University | ID122 | College of Computer Studies | Major in Software Technology</h3>
 
  
 
 ## 📫 How to reach me?
 - **homssi002@gmail.com - Personal Account**
 - **yazan_homssi@dlsu.edu.ph - DLSU Account**
-
-<h4>Check out my website here: https://yazan.chemist3.com/</h4>
 
 <h3 align="left">You may contact me through these social medias >w<</h3>
 <p align="left">
