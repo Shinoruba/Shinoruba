@@ -1,4 +1,4 @@
-<h3 align="center">De La Salle University | ID122 | College of Computer Studies | Major in Software Technology</h3>
+<h3 align="center">🚀 De La Salle University | ID122 | College of Computer Studies | Major in Software Technology 🚀</h3>
 
 ## 📫 How to reach me?
 - **homssi002@gmail.com - Personal Account**
