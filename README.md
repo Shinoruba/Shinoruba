@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinoruba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shinoruba&locale=en&mode=daily&theme=react&hide_border=false&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shinoruba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinoruba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shinoruba&locale=en&mode=daily&theme=react&hide_border=false&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shinoruba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
----
+
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/f5M02sGR5doAAAAj/invincible-vincing.gif"  />
@@ -20,9 +20,9 @@
 
 <h3 align="center">📫 How to reach me? 📫</h3>
 
-###
-
-<p align="center">homssi002@gmail.com - Personal Account<br>yazan_homssi@dlsu.edu.ph - DLSU Account</p>
+<p align="center">
+  📧 homssi002@gmail.com - Personal Account 📧<br>
+  📧 yazan_homssi@dlsu.edu.ph - DLSU Account 📧</p>
 
 ###
 
@@ -36,6 +36,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Shinoruba&theme=discord&column=-1&row=1&margin-w=13&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinoruba&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=Shinoruba&theme=discord&column=-1&row=1&margin-w=13&margin-h=8&no-bg=false&no-frame=false&order=4" height="130" alt="trophy graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinoruba&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="250" alt="activity-graph graph"  />
 </div>
