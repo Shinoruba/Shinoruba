@@ -4,18 +4,11 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/f5M02sGR5doAAAAj/invincible-vincing.gif"  />
+  <img height="250" src="https://media.tenor.com/f5M02sGR5doAAAAj/invincible-vincing.gif"  />
 </div>
 
-###
-
-<h3 align="center">📫 How to reach me? 📫</h3>
-<p align="center"> 📧 homssi002@gmail.com 📧</p>
-
-
-<div align="center">
+<!-- <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-homssi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-homssi/) 
 
- ---
-</div>
+</div>-->
