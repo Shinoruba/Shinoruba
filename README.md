@@ -1,8 +1,8 @@
-<h2 align="left">Greetings👋 My name is Yazan!</h2>
+<h2 align="left">Greetings 👋 My name is Yazan!</h2>
 
 ###
 
-<p align="left">~ Senior CS Student @ De La Salle University<br>~ I am into AI/ML (Mobile Legends)<br>~ TensorFlow > PyTorch<br>~ I play HELLDIVERS 2<br>~ I prefer PvE games over PvP<br>~ I like petting cats<br>~ I drink coffee thrice a day (minimum)</p>
+<p align="left">~ Senior CS Student @ De La Salle University<br>~ I am into AI/ML (Mobile Legends)<br>~ TensorFlow > PyTorch<br>~ I prefer PvE games over PvP<br>~ I play HELLDIVERS 2 & Dying Light: The Beast<br>~ I like petting cats, they're pretty cute<br>~ I drink coffee thrice a day (minimum)</p>
 
 ###
 
@@ -69,18 +69,18 @@
   <a href="https://www.linkedin.com/in/yazan-homssi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/Shinoruba/" target="_blank">
+  <!-- <a href="https://www.facebook.com/Shinoruba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://gitlab.com/Shinoruba" target="_blank">
+  </a> -->
+  <!-- <a href="https://gitlab.com/Shinoruba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/f5M02sGR5doAAAAj/invincible-vincing.gif"  />
+  <img height="100" src="https://media.tenor.com/f5M02sGR5doAAAAj/invincible-vincing.gif"  />
 </div>
 
 ###
