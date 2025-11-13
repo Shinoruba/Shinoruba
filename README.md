@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">~ Senior CS Student @ De La Salle University<br>~ I am into AI/ML (Mobile Legends)<br>~ TensorFlow > PyTorch<br>~ I prefer PvE games over PvP<br>~ I play HELLDIVERS 2 & Dying Light: The Beast<br>~ I like petting cats, they're pretty cute<br>~ I drink coffee thrice a day (minimum)</p>
+<p align="left">~ Senior CS Student @ De La Salle University<br>~ I am into AI/ML (Mobile Legends)<br>~ Goodbye TensorFlow, Hello PyTorch<br>~ I prefer PvE games over PvP<br>~ I play HELLDIVERS 2 & Dying Light: The Beast<br>~ I drink coffee thrice a day (minimum)</p>
 
 ###
 
