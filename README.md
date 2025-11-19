@@ -58,17 +58,14 @@
 
 ###
 
-<h2 align="left">🚀 You may reach out to me through:</h2>
+<!-- <h2 align="left">🚀 You may reach out to me through:</h2>
 
 ###
 
 <div align="left">
-  <a href="homssi002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/yazan-homssi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a> -->
   <!-- <a href="https://www.facebook.com/Shinoruba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a> -->
