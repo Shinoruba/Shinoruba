@@ -1,11 +1,17 @@
 ## 😃 About me
 
-I am a senior **Computer Science** undergraduate at **De La Salle University**, interested in **Software Engineering**, **Data Engineering**, and **Machine Learning**. 
+I am a graduating **Computer Science** student from **De La Salle University**.
 My journey (so far) has taken me from training and testing models for the Philippines' top FinTech unicorn to building and maintaining payment orchestration engines for a global banking leader.
 
 ---
 
 ## 💼 Professional Experience
+
+### **TP ICAP**
+**Associate Forward Deployed Engineer** | *September 2026 – Present*
+
+The world’s largest interdealer broker and premier market infrastructure provider. Embedded within Human Resources as a dedicated spoke of the central **AI Innovations Lab**, designing and deploying enterprise AI/GenAI services to transform internal operations and the global employee lifecycle.
+
 
 ### **ING**
 **Software Engineer Intern** | *April 2026 – September 2026*
